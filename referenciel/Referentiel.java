@@ -1,5 +1,5 @@
 package referenciel;
 
-public class Referenciel {
+public class Referentiel {
     
 }
